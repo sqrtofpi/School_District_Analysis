@@ -25,9 +25,7 @@ Upon removing the suspect reading and math data from Thomas High School's 9th gr
 
 ### The district summary affect
 
-- Avg. math score decreased
-- Avg. reading score increased
-- Overall Passing decreased
+- The % Passing results all decreased minimally when the summary was re-analyzed without Thomas High School 9th Grade reading and math data.
 
 ![District Summary Original](https://github.com/sqrtofpi/School_District_Analysis/blob/2bf273cf566d2faa24ae52eed91ae7c19129cac9/Resources/District%20Summary%20Original.png)
 
