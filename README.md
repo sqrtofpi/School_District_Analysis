@@ -29,15 +29,25 @@ Upon removing the suspect reading and math data from Thomas High School's 9th gr
 - Avg. reading score increased
 - Overall Passing decreased
 
+![District Summary Original](https://github.com/sqrtofpi/School_District_Analysis/blob/2bf273cf566d2faa24ae52eed91ae7c19129cac9/Resources/District%20Summary%20Original.png)
+
+![District Summary Updated](https://github.com/sqrtofpi/School_District_Analysis/blob/2bf273cf566d2faa24ae52eed91ae7c19129cac9/Resources/District%20Summary%20Updated.png)
+
 ### The school summary affect
 
 - Over all the schools the impact was relatively minor to exclude the 9th grade data from Thomas High School, this is primarily because the number of 9th graders at that school compared with the entire dataset was small.
 
 - The affect to Thomas High School's results were significant however. The % Overall passing went from 65.1% to 90.6% when the 9th graders information was excluded.
 
+![Summary with Thomas High School 9th Grade](https://github.com/sqrtofpi/School_District_Analysis/blob/2bf273cf566d2faa24ae52eed91ae7c19129cac9/Resources/School%20Summary%20with%20Thomas%20HS%209th%20Grade.png)
+
+![Summary without Thomas High School 9th Grade](https://github.com/sqrtofpi/School_District_Analysis/blob/2bf273cf566d2faa24ae52eed91ae7c19129cac9/Resources/School%20Summary%20without%20Thomas%20HS%209th%20Grade.png)
+
 ### Thomas High School performance compared to other Schools
 
 -  Thomas went from 9th best to 2nd best relative to the overall performance of other schools in the district when the 9th grade students information was excluded from the results.
+
+![Top 5 Performing Schools without Thomas High School 9th Grade Data](https://github.com/sqrtofpi/School_District_Analysis/blob/2bf273cf566d2faa24ae52eed91ae7c19129cac9/Resources/Top%205%20Performing%20Schools.png)
 
 ### Additional affects of removing the Thomas High School 9th grade data
 
